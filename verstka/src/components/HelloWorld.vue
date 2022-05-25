@@ -133,7 +133,7 @@
     .conteiner4 {
       display: flex;
       flex-flow: row wrap;
-      width: 17%;
+      width: 200px;
     }
 
     .conteiner4 .item{
